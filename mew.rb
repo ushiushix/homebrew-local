@@ -5,9 +5,9 @@
 require 'formula'
 
 class Mew < Formula
-  url 'http://www.mew.org/Release/mew-6.5.tar.gz'
+  url 'http://www.mew.org/Release/mew-6.6.tar.gz'
   homepage 'http://www.mew.org'
-  sha1 '742b32eca07c4ae7eab24b2678b745aac2b296ea'
+  sha1 '3ba1bac6ed9a7a6a85d61b5946418914912063f3'
 
   depends_on 'emacs'
   head 'git://github.com/kazu-yamamoto/Mew.git'
