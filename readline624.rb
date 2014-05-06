@@ -1,6 +1,6 @@
 require 'formula'
 
-class Readline < Formula
+class Readline624 < Formula
   homepage 'http://tiswww.case.edu/php/chet/readline/rltop.html'
   url 'http://ftpmirror.gnu.org/readline/readline-6.2.tar.gz'
   mirror 'http://ftp.gnu.org/gnu/readline/readline-6.2.tar.gz'
