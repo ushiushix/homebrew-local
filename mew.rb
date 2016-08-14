@@ -7,7 +7,7 @@ require 'formula'
 class Mew < Formula
   url 'http://www.mew.org/Release/mew-6.7.tar.gz'
   homepage 'http://www.mew.org'
-  sha1 '10e555228c22e5c78d23d94fa9cd77e5de562127'
+  sha256 '7e801f53feb37a1d1b755c1e5ce67cf865bb96be42dfc5487f7b9c3f859fdf0d'
 
   depends_on 'emacs'
   head 'git://github.com/kazu-yamamoto/Mew.git'
